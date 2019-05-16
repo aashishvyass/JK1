@@ -15,3 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.navigateToUrl('https://www.guru99.com/postgresql-tutorial.html')
 
+WebUI.navigateToUrl('http://scn.sap.com/docs/DOC-69671')
+
